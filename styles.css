@@ -24,8 +24,8 @@ body{
 }
 
 .imagem {
-    width: 200px; /* Defina a largura desejada */
-    height: auto; /* Mantém a proporção da imagem */
+    width: 200px; 
+    height: auto; 
 }
 
 .apresentacao__conteudo{
